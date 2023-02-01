@@ -10,7 +10,7 @@ Test
 function receiveMessage(e) {
   alert('In!'); 
   var str = '{"search_engine":"1";"content":"web"}';
-  alert(str);
+  alert('str');
   var data = JSON.parse(str);
   alert(data.search_engine);
   if (data.search_engine == 1)
