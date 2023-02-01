@@ -9,7 +9,8 @@ Test
 
 function receiveMessage(e) {
   alert('In!'); 
-  var data = JSON.parse(e.data);
+  var str = '{"search_engine":1;"content":"web"}'
+  var data = JSON.parse(str);
   if (data.search_engine == 1)
   	window.location.replace('https://www.bing.com/search?q=' + data.content);
   else if (data.search_engine == 2)
