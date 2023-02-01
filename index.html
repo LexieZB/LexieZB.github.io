@@ -11,6 +11,7 @@ function receiveMessage(e) {
   alert('In!'); 
   str = '{"search_engine":1,"content":"web"}'
   var data = JSON.parse(str);
+  alert(data);
   alert(data.search_engine);
   alert(data.content);
   if (data.search_engine == 1)
