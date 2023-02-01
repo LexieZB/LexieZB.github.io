@@ -8,6 +8,7 @@ CS5331 Assignment One
 <script>
 
 function receiveMessage(e) {
+  alert('In!'); 
   var data = JSON.parse(e.data);
   
   if (data.search_engine == 1)
