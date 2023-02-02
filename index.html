@@ -8,13 +8,9 @@ Test
 <script>
 
 function receiveMessage(e) {
-  alert('baby3');
-  str = '{"search_engine":"1";"content":"web"}';
-  alert(str);
-  var data = JSON.parse(str);
-  alert("testtest");
+  alert('TEST');
+  var data = JSON.parse(e.data);
   alert(data);
-  alert(data.search_engine);
   if (data.search_engine == 1)
   	window.location.replace('https://www.bing.com/search?q=' + data.content);
   else if (data.search_engine == 2)
@@ -22,9 +18,9 @@ function receiveMessage(e) {
   else
 	alert('Please define search engine');  
 }
-alert('before function'); 
+
 window.addEventListener("message", receiveMessage, false);
-alert('after function'); 
+
 </script>
 
 </body>
