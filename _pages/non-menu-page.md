@@ -10,8 +10,6 @@ redirect_from:
 
 This is a page not in the menu. You can use markdown in this page.
 
-这是菜单中没有的页面。 您可以在此页面中使用 Markdown。
-
 Heading 1
 ======
 

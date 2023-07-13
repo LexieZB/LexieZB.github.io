@@ -10,8 +10,6 @@ location: "City, Country"
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-这是对教学经历的描述。您可以像使用任何其他帖子一样使用 Markdown。
-
 Heading 1
 ======
 

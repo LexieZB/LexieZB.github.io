@@ -1,7 +1,5 @@
-欢迎投稿！请添加问题并提出请求请求。没有愚蠢的问题。欢迎所有想法。这是一个志愿者项目。彼此优秀。
+Contributions are welcome! Please add issues and make pull requests. There are no stupid questions. All ideas are welcome. This is a volunteer project. Be excellent to each other.
 
-从 master 分叉并从那里开始。该存储库旨在保留一个通用的、现成的模板，用于演示学术页面的功能。
+Fork from master and go from there. This repository is intended to remain a generic, ready-to-fork template that demonstrates the features of academicpages.
 
-如果您提出拉取请求并更改代码，请确保有一个标记为'code change'的已关闭问题，其中有一些评论链接到单个提交（如果更改只是一次提交）或之前/之后的差异比较更改（例子，请参见[issue 21](https://github.com/academicpages/academicpages.github.io/issues/21)）。
-
-这是为了让那些已经分叉这个 repo 并为他们的目的修改它的人可以更容易地修补错误和新功能。
+If you make a pull request and change code, please make sure there is a closed issue tagged with 'code change' that has some comment linking to either the single commit (if the change was just one commit) or a diff comparing before/after the change (see [issue 21](https://github.com/academicpages/academicpages.github.io/issues/21) for example). This is so that those who have forked this repo and modified it for their purposes can more easily patch bugs and new features.

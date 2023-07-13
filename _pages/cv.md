@@ -11,30 +11,30 @@ redirect_from:
 
 Education
 ======
-* 公共事业管理, 湖南中医药大学 2019-2023
-  * GPA：3.69/5
-  * 专业排名：15%
+* B.S. in GitHub, GitHub University, 2012
+* M.S. in Jekyll, GitHub University, 2014
+* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
 Work experience
 ======
-* 暂无
+* Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
+* Fall 2015: Research Assistant
+  * Github University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
   
 Skills
 ======
-* LaTeX
-* Python
-   * Data Analysis
-   * Web Crawler
-* SPSS
-* CET-4/CET-6
-
-Personal honor
-======
-* 湖南中医药大学校级一等奖学金，2019-2020
+* Skill 1
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3
 
 Publications
 ======
@@ -54,6 +54,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Leadership and Service
+Service and leadership
 ======
-* 2021年湖南省大学生创新创业训练计划省级项目主持人
+* Currently signed in to 43 different slack teams
