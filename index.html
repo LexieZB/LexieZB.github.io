@@ -1,4 +1,0 @@
-Search term: <input type="text" name="text1" id="text1">
-Search engine: <input type="radio" id="bing" name="search_engine" value="1" checked="checked">Bing <input type="radio" id="google" name="search_engine" value="2">Google
-<button name="Search" onclick="var obj=document.getElementsByName('search_engine');for(i=0;i<obj.length;i++){if(obj[i].checked){var choose=obj[i].value;}};var content=document.getElementById('text1').value;str='{&quot;search_engine&quot;:&quot;'+choose+'&quot;,&quot;content&quot;:&quot;'+content+'&quot;}';var iframeWin=document.getElementById('frame1').contentWindow;iframeWin.postMessage(str,'https://nus-cs5331.github.io/search.html');">Search</button>
-<iframe src="https://nus-cs5331.github.io/search.html" id="frame1" height="400"></iframe>
