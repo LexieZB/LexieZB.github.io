@@ -11,7 +11,26 @@ redirect_from:
 
 Education
 ======
+
+#### Master of Science, Digital Financial Technology, National University of Singapore
+
+Course taken:
+
+- Web Security
+- Blockchain Innovations
+
+#### Bachelor of Engineering, Computer Science, Harbin Institute of Technology
+
+Course taken:
+
+- Computer Networks
+- Computer Systems
+- Data Structures
+- Database Systems
+- Computer Architecture
+
 * B.S. in GitHub, GitHub University, 2012
+* 
 * M.S. in Jekyll, GitHub University, 2014
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
@@ -41,19 +60,19 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
