@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV1"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -12,22 +12,22 @@ redirect_from:
 Education
 ======
 
-#### Master of Science, Digital Financial Technology, National University of Singapore
+### Master of Science, Digital Financial Technology, National University of Singapore
 
 Course taken:
 
 - Web Security
 - Blockchain Innovations
 
-#### Bachelor of Engineering, Computer Science, Harbin Institute of Technology
+### Bachelor of Engineering, Computer Science, Harbin Institute of Technology
 
 Course taken:
 
-- Computer Networks
 - Computer Systems
 - Data Structures
 - Database Systems
 - Computer Architecture
+- Computer Networks
 
 * B.S. in GitHub, GitHub University, 2012
 * 
