@@ -30,7 +30,7 @@ Course taken:
 
 Work experience
 ======
-* *Feb 2023 - Now:* Research Assistant at NUS Security Lab Under the Supervision of Professor [Liang Zhenkai](https://www.comp.nus.edu.sg/cs/people/liangzk/)
+* *Feb 2023 - Now:* **Research Assistant** at NUS Security Lab Under the Supervision of Professor [Liang Zhenkai](https://www.comp.nus.edu.sg/cs/people/liangzk/)
   * Currently working on: 
     * Set up a Fintech Environment based on [OpenBankProject](https://www.openbankproject.com/)
     * Reproduce typical cyber attacks happened in financial sector in the environment
@@ -38,13 +38,13 @@ Work experience
   * Conducted case studies on prominent cyber attacks, including the Bangladesh Bank heist and the Capital One data breach 
   * Utilized Python to analyze and visualize corporate debt data 
   * Utilized Machine Learning algorithms and Deep Learning architectures, including Random Forest, XGBoost, RNN, and LSTM,  to effectively address missing values in historical financial data
-* *Winter 2022:* Research Assistant at NUS HCI Lab
+* *Winter 2022:* **Research Intern** at NUS HCI Lab
   * Designed and executed experiments to evaluate the effect of text spacing when reading on smart glasses
   * Collaborated with 22 participants, guiding procedures, documenting results, and collecting feedback. 
-* *Winter 2021:* C++ INTERN at INDEMIND 
+* *Winter 2021:* **C++ INTERN** at INDEMIND 
   * Utilized C++ to develop stereo vision Block Matching (BM) algorithm to help the vacuum robot avoid obstacles 
   * Collected data to test the SLAM algorithm and improve its robustness 
-* *Summer 2021:* Core Assurance Intern at PricewaterhouseCoopers
+* *Summer 2021:* **Core Assurance Intern** at PricewaterhouseCoopers
   * Programed with Excel VBA to develop a model of impairment with automation to meet the financial standard IFRS 9 
   * Improved the efficiency of the impairment model, and ultimately shortened the impairment calculation time from 3 days to 5 hours, with an accuracy rate of 95% 
   * Optimized the impairment model, improved the graphical user interface and enhanced the user experience, increasing  adoption from 74% to 87%
