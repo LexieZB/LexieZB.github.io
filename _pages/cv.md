@@ -51,14 +51,14 @@ Work experience
 
 # Projects
 
-- [Static Analytic Tool For Firefox Extensions](https://github.com/LexieZB/Extension-Analysis/tree/main)
+- [Static Analytic Tool For Firefox Extensions](https://github.com/LexieZB/Extension-Analysis/tree/main) (Mar - Apr 2023)
   - Programmed with Python
   - Utilized Beautiful Soup to download over 8000 Firefox extensions 
   - Analyzed the manifest.json, JS, and HTML files in the extension's source code using regular expressions
   - Produced analysis reports for each extension, highlighting its permission risk level and identifying any URLs, base64 encoded strings, or external addresses in the source code
-- [Rock-Paper-Scissors on Blockchain](https://github.com/LexieZB/Blockchain-RPS-Game)
+- [Rock-Paper-Scissors on Blockchain](https://github.com/LexieZB/Blockchain-RPS-Game) (Apr 2023)
   - Designed and developed a decentralized platform using Remix and Solidity that allows users to play Rock-Paper-Scissors games, place bets with ETH cryptocurrency, and win or lose their bets. 
-- [School Life Application](https://github.com/LexieZB/Haweitong-WeChat-Mini-Program/tree/main)
+- [School Life Application](https://github.com/LexieZB/Haweitong-WeChat-Mini-Program/tree/main) (Mar -Jun 2022)
   - Assisted students with their academic and personal life by developing an online platform where they could access course  materials, complete practice exercises, share news and thoughts, view school announcements, and calculate their GPA
   - Utilized WXML and WXSS to develop the view module, which formulated the frontend interface display, and JavaScript to  develop the service module, which formulated the background logic 
 
