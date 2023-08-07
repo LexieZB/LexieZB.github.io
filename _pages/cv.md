@@ -27,7 +27,6 @@ Course taken:
 
 - Calculus
 - Linear Algebra and Analytic Geometry
-
 - Computer Systems
 - Data Structures
 - Database Systems
