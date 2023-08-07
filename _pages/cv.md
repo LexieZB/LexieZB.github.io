@@ -17,14 +17,21 @@ Course taken:
 
 - Web Security
 - Blockchain Innovations
+- Programming For Blockchain Applications
+- Machine Learning for Finance
+- Financial Modelling For Fintech Professionals
 
 ### Bachelor of Engineering, Computer Science, Harbin Institute of Technology
 
 Course taken:
 
+- Calculus
+- Linear Algebra and Analytic Geometry
+
 - Computer Systems
 - Data Structures
 - Database Systems
+- Operating Systems
 - Computer Architecture
 - Computer Networks
 
